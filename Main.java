@@ -1,4 +1,4 @@
-aimport java.util.Scanner;
+import java.util.Scanner;
 import java.io.*;
 import java.time.*;
 import java.util.Date;
@@ -347,7 +347,7 @@ public class Main {
                     index = i;
                 }
             }
-			String lainnya;
+	    String lainnya;
             do {
                 System.out.println("1. Menu Data Guru");
                 System.out.println("2. Menu Slip Gaji");
